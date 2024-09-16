@@ -8,6 +8,6 @@ INSERT INTO test VALUES (2,'Nick',22);
 
 SELECT * FROM test;
 
-*scx
+* scx
 
-the code is 'select*'
+the code is select*
