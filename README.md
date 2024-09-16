@@ -10,4 +10,4 @@ SELECT * FROM test;
 
 * scx
 
-the code is 、select*、
+the code is ·select*·
