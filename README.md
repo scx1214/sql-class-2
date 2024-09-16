@@ -7,3 +7,5 @@ INSERT INTO test VALUES (1,'Mary',22);
 INSERT INTO test VALUES (2,'Nick',22);
 
 SELECT * FROM test;
+
+*scx
